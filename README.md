@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+[![KhangDo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhangDo25&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangDo25&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KhangDo25/KhangDo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
