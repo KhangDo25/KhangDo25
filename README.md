@@ -34,10 +34,9 @@ I'm an IT student focused on Object-Oriented Programming (OOP) and Fullstack Sof
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhangDo25&show_icons=true&theme=tokyonight" alt="KhangDo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhangDo25&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangDo25&theme=tokyonight&hide_border=true" alt="KhangDo's Streak Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhangDo25&theme=tokyonight" alt="KhangDo's Summary" width="48%" />
 </p>
-
 ---
 
 <p align="center">
