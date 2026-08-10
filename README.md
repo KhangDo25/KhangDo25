@@ -42,3 +42,9 @@ I'm an IT student focused on Object-Oriented Programming (OOP) and Fullstack Sof
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhangDo25&theme=tokyonight&column=4" alt="KhangDo's Trophies" />
+</p>
